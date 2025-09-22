@@ -43,8 +43,8 @@ Blockchain-Ecommerce/
 Installation & Setup
 ------------------------------------------------------------
 1. Clone the Repository
-   git clone https://github.com/your-username/blockchain-ecommerce.git
-   cd blockchain-ecommerce
+   git clone https://github.com/your-username/blockchain-ecommerce.git](https://github.com/sidd0710/E-commerce-using-blockchain.git
+   cd E-commerce-using-blockchain
 
 2. Install Dependencies
    npm install
